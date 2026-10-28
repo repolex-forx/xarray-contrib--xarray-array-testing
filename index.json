@@ -1,0 +1,11 @@
+{
+  "org": "xarray-contrib",
+  "repo": "xarray-array-testing",
+  "versions": [
+    {
+      "commit": "8e076665d3d1e7d0a8eb31360d483cd8356ba1c6",
+      "tag": "",
+      "parsed_at": "2026-10-28T11:19:58.309755+00:00"
+    }
+  ]
+}
